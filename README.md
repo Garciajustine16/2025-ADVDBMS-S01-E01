@@ -1,4 +1,4 @@
-# 2025-OBJPROG-S01-E01
+# 2025-ADVDBMS-S01-E01
 GitHub Classroom Assignment for a Java Hello World Program and Introduction to Git
 
 # **Hello World Assignment**
@@ -68,13 +68,13 @@ ssh -T git@github.com
 3. Open your terminal (or Git Bash, Command Prompt, or PowerShell) and run:
 
 ```bash
-git clone https://github.com/PLMUN-CITCS/objprog-s02-e01-[your username].git
+git clone https://github.com/PLMUN-CITCS/advdbms-s02-e01-[your username].git
 ```
 
 4. Navigate into the cloned folder:
 
 ```bash
-cd objprog-s02-e01-[your username]
+cd advdbms-s02-e01-[your username]
 ```
 
 ### **Step 3: Complete the Assignment**
@@ -124,6 +124,6 @@ git push origin main
 ### **Step 5: Submit Your Repository Link**
 Once your changes have been pushed:
 1. Visit your GitHub repository online.
-2. Copy the repository URL from your browser (e.g., https://github.com/PLMUN-CITCS/objprog-s02-e01-[your username).
+2. Copy the repository URL from your browser (e.g., https://github.com/PLMUN-CITCS/advdbms-s02-e01-[your username).
 3. Submit the repository link to your instructor via the classroom portal or as instructed.
 
